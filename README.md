@@ -12,14 +12,11 @@ Cria e lista os cartões, os quais podem ter os seguintes dados: nome, empresa, 
 - Extensions
 - Xml para construção dos layouts
 - Material Design
-- Fragments
 - RecyclerView
-- Adapters e CustomAdapters
-- DatePicker e TimePicker
+- Adapters 
 - ViewBinding
 - MVVM
-- Navigation
 - ROOM
 - Coroutines
-- Injeção de Dependência dos viewModels via construtor
+- Injeção de Dependência via Koin
 - Padrões de projeto como Repository com utilização de Interface
